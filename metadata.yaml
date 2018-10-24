@@ -1,11 +1,16 @@
 _repo: Round-the-Sofa-vol-1-Round-the-Sofa-My-Lady-Ludlow_58092
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58092-h/images/cover.jpg
 creator:
   author:
     agent_name: Gaskell, Elizabeth C.
     gutenberg_agent_id: '49769'
     url: http://www.gutenberg.org/2009/agents/49769
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58092#Round-the-Sofa-vol-1-Round-the-Sofa-My-Lady-Ludlow
 gutenberg_issued: '2018-10-13'
 gutenberg_type: Text
 identifiers:
